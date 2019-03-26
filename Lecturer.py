@@ -103,7 +103,6 @@ class Lecturer(Frame):
 
 root = Tk()
 root.title("Lecturer Screen")
-root.configure(background='black')
 root.resizable(0,0) 
 root.geometry("200x200") 
 root.columnconfigure(0, weight=1)
