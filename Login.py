@@ -63,7 +63,6 @@ class LoginFrame(Frame):
 
 root = Tk()
 root.title("Login")
-
 root.resizable(0,0) 
 root.geometry("300x150") 
 root.columnconfigure(0, weight=1)
