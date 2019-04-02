@@ -108,7 +108,7 @@ class Student(Frame):
 
 # Main
 root = Tk()
-root.title("This sucks")
+root.title("Student Menu")
 root.resizable(0,0) #Disallows resizing
 root.geometry("200x200") #Fix the size of the window to 500x500
 root.columnconfigure(0, weight=1) #I think these center, methods need further research
